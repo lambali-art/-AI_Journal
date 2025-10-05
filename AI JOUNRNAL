@@ -18,3 +18,10 @@ I had forgotten, like using enumerate() for loops and list comprehensions.I also
 where I had to track book availability and checkout status. It was useful for spotting small mistakes I might have missed, like off-by-one 
 errors or forgetting to update a list.Overall, AI helped me be more confident about my solutions and saved me some time when I wasn’t sure how to approach
 a problem. I didn’t use it to copy answers, just to get guidance and examples that helped me think through the problems myself.
+
+AI JOURNAL WEEK 4
+
+This week, I used AI to help me complete my Python exercises for class. I asked for guidance on creating classes like Book, Member, and Shelf
+, and it helped me write the methods correctly and check for edge cases. I also used AI to double-check my code with quick assertions to make 
+sure everything worked as expected. Additionally, I asked for explanations of the code so I could understand why each method worked, not just 
+copy it. Using AI this way saved me time and made it easier to stay organized while learning.
