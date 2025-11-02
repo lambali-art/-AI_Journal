@@ -38,3 +38,11 @@ This week, I used AI a lot to help me write and organize Python classes for my a
 like Book, Member, Loan, and Catalog, and AI helped me make instance methods, class methods, and static methods correctly. It was really 
 helpful for understanding the differences between them and seeing how to structure my code. I also used AI to quickly check my code and get 
 simple examples for testing.
+
+AI JOURNAL WEEK 7 
+
+This week I used AI to help me write and debug several Python functions for my class assignments, including validating ISBNs, 
+handling exceptions, and writing unit tests. I also practiced converting legacy assert statements to proper exception handling and 
+created end-to-end test cases for a catalog and loan system. The AI was really helpful in showing me how to structure try/except/else 
+blocks and subtests in unittest, which made my code cleaner and easier to understand. I also used it to clarify small details like proper 
+error messages and handling user input safely.
