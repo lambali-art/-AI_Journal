@@ -46,3 +46,10 @@ handling exceptions, and writing unit tests. I also practiced converting legacy 
 created end-to-end test cases for a catalog and loan system. The AI was really helpful in showing me how to structure try/except/else 
 blocks and subtests in unittest, which made my code cleaner and easier to understand. I also used it to clarify small details like proper 
 error messages and handling user input safely.
+
+AI JOURNAL WEEK 8
+
+This week, I used AI to help me work through my Python class exercises, especially for creating subclasses of `Book` and `Member`,
+implementing polymorphic methods, and handling library checkout logic. I also got guidance on writing small demos and unit tests to make
+sure my overrides and late fee calculations worked correctly. It was really helpful for seeing how inheritance and polymorphism play out
+in a real program. Here’s a link to my chat where I built most of the library system.
