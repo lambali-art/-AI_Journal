@@ -53,3 +53,10 @@ This week, I used AI to help me work through my Python class exercises, especial
 implementing polymorphic methods, and handling library checkout logic. I also got guidance on writing small demos and unit tests to make
 sure my overrides and late fee calculations worked correctly. It was really helpful for seeing how inheritance and polymorphism play out
 in a real program. Here’s a link to my chat where I built most of the library system.
+
+AI JOURNAL WEEK 9 
+
+This week, I used AI extensively to help complete my Python assignments on abstract classes and protocols. I generated and refined code 
+for LibraryItem and its subclasses, implemented template methods, abstract properties, and virtual subclass registration, and even wrote 
+unit tests to validate behavior. I also drafted short reflections explaining ABCs versus Protocols and why using abstract types improves 
+flexibility. These chats helped me work more efficiently and document my learning process clearly.
