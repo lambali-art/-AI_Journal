@@ -67,3 +67,10 @@ This week, I used AI to help me work through a series of Python exercises for my
 a Book and Catalog system with properties, immutability, sorting, and container protocols. AI helped me write clean, functional code for 
 property validation, read-only computed attributes, and iteration protocols, and also guided me in creating unit tests. It made it much f
 aster to debug ideas and check small demos without starting from scratch each time.
+
+AI JOURNAL WEEK 12
+
+This week, I used AI to help with my media review utility library project. I asked AI to clarify the domain requirements and project goals,
+and to help me shorten them into clear, concise points I could present. AI also helped me explain my architecture and design decisions and 
+summarize what I learned from the project in a few sentences. This made it easier to reflect on my work and communicate it clearly without
+overcomplicating things.
